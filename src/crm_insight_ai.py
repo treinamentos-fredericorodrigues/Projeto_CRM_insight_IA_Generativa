@@ -27,9 +27,10 @@ Tecnologias:
 # IMPORTAÇÃO DA BIBLIOTECA OPENAI
 # ==========================================================
 # Necessária para realizar a comunicação com o modelo GPT.
-# Instalação:
-#
-# pip install openai
+# Instalação, digite na primeira célula o seguinte código:
+# 
+!pip install -q openai
+
 #
 # ==========================================================
 
@@ -115,7 +116,7 @@ Utilize linguagem profissional e voltada para gestores.
 # ==========================================================
 
 resposta = client.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-4o-mini",
     messages=[
         {
             "role": "system",
