@@ -1,6 +1,6 @@
-# CRM Insight AI: Assistente Inteligente para Análise Comercial com IA Generativa
+# CRM Insight AI
 
-## Aplicação de Inteligência Artificial Generativa para Análise de CRM e Apoio à Tomada de Decisão Comercial
+## Assistente Inteligente para Análise Comercial com IA Generativa
 
 ### Projeto Educacional
 
