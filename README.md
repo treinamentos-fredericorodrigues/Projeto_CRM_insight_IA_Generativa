@@ -1,0 +1,1 @@
+# Projeto_CRM_insight_IA_Generativa
